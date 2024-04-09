@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Diana Vashakidze](https://up.htmlacademy.ru/adaptive/31/user/2468067).
-* Наставник: `Неизвестно`.
+* Наставник: [Екатерина Комнатная](https://htmlacademy.ru/profile/id215761).
 
 ---
 
